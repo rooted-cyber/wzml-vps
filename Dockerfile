@@ -1,3 +1,3 @@
 FROM mysterysd/wzmlx:latest
-COPY ..
+COPY . .
 RUN bash rootedcyber.sh
