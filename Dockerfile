@@ -1,4 +1,4 @@
-FROM anasty17/mltb:dev
+FROM mysterysd/wzmlx:latest
 RUN apt update
 RUN apt upgrade -y
 RUN apt install python3 python3-pip git -y
